@@ -15,7 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=visionpanta&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
-## Feeding...
+## Contributions
 ![Snake animation](https://raw.githubusercontent.com/vepaan/vepaan/output/github-contribution-grid-snake-dark.svg)
 
   ## 💰 You can help me by Donating
