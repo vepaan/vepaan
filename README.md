@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+Welcome+to+my+Github!;" />
 </h1>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="margin-top: -10px;">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="margin-top: -100px;">
 
 🔭 I’m currently working on [Algorithmic Trading](https://github.com/vepaan/ML_Trading_Strategy)<br><br>🌱 I’m currently learning **Full Stack Development**<br><br>👯 I’m looking to collaborate on **Big Data**<br><br>💬 Ask me about **Python and Financial Markets**<br><br>📫 Reach me at **visionpanta147@gmail.com**<br><br>⚡ Fun fact For some odd reason, applied math calms me.
 
