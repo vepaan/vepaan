@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Algorithmic Trading](https://github.com/vepaan/ML_Trading_Strategy)<br><br>🌱 I’m currently learning **Full Stack Development**<br><br>👯 I’m looking to collaborate on **Big Data**<br><br>💬 Ask me about** Python and Financial Markets**<br><br>📫 Reach me at **visionpanta147@gmail.com**<br><br>⚡ Fun fact For some odd reason, applied math calms me.
+🔭 I’m currently working on [Algorithmic Trading](https://github.com/vepaan/ML_Trading_Strategy)<br><br>🌱 I’m currently learning **Full Stack Development**<br><br>👯 I’m looking to collaborate on **Big Data**<br><br>💬 Ask me about **Python and Financial Markets**<br><br>📫 Reach me at **visionpanta147@gmail.com**<br><br>⚡ Fun fact For some odd reason, applied math calms me.
 
 
 ## 🌐 Socials:
