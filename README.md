@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" >
 <br>
 
-🔭 I’m currently working on **Reinforcement Learning**<br><br>🌱 I’m currently learning **Full Stack Development**<br><br>👯 I’m looking to collaborate on **Big Data**<br><br>💬 Ask me about **Python and Financial Markets**<br><br>📫 Reach me at **visionpanta147@gmail.com**<br><br>⚡ Fun fact For some odd reason, math calms me.
+🔭 I’m currently working on **Reinforcement Learning**<br><br>🌱 I’m currently learning **Full Stack Development**<br><br>👯 I’m looking to collaborate on **Big Data**<br><br>💬 Ask me about **Python and Financial Markets**<br><br>📫 Reach me at **visionpanta147@gmail.com**<br><br>
 
 
 ## 🌐 Socials:
